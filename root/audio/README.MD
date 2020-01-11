@@ -1,25 +1,26 @@
-## Content
+## Inhalt
 
+Hier liegen alle Dateien, die Audioinformationen beinhalten, ggf. zusammen mit begleitenden Dateien wie Booklets.
+Eine Ausnahme bilden Soundeffekte, die im Archiv-Ordner abgelegt werden.
+Dafür sollten hier auch MIDI- und Wiedergabelisten-Dateien abgelegt werden, die von der Verwendung sehr eng mit Musikdateien verbunden sind.
 The (digital) audio section contains any kind of sound that is contained within a file - such as music, sounds, sound effects, podcasts, audiobooks, event recordings (musicals, concerts, standup comedy), games and many others.
 
-Some common file types are: `*.{raw,wav,flac,mp3,m4a,m4b,ogg,opus,aiff,aac}`
+Typische Dateitypen sind: `*.{raw,wav,flac,mp3,m4a,m4b,ogg,opus,aiff,aac}`
 
-## Sub-Sections
+## Unterteilungen
 
-| Folder       | Contents                                                     |
-| ------------ | ------------------------------------------------------------ |
-| artists      | music artists / bands                                        |
-| books        | recordings of books read by a person (aka audiobooks)        |
-| compilations | collections of music gathered from different artists / albums / events |
-| playlists    | radio streams, music playlists, ..                           |
-| podcasts     | audio-only broadcasts.. alternative name: `netcast`          |
-| soundtracks  | audio content related to other media like movies, tv-shows and videogames |
+| Kategorie  | Beschreibung                                              |
+| ---------- | --------------------------------------------------------- |
+| Aufnahmen  | Mitschnitte von Veranstaltungen, Radioausstrahlungen, ... |
+| Hörbücher  | Hörbücher/Hörspiele                                       |
+| Midi       | MIDI-Dateien                                              |
+| Musik      | Alben, Einzeltitel, Sammlungen, Soundtracks               |
+| Playlisten | Zusammenstellungen von Titeln zur Wiedergabe              |
+| Podcasts   | Podcasts (einzelne Folgen oder Abonnements)               |
 
 ## Patterns
 
-File naming among music files is a very common topic among enthusiasts and it differs a lot from person to person. The filetree itself already defines a certain pattern that many people can somewhat agree on.
-
-Please feel free to create your own pattern, by reading through the many many forum posts that people started. If you want a quickstart, here are a few common patterns:
+TODO
 
 ```
 # + --------------------------------------------------------------------------------
@@ -43,7 +44,7 @@ ALBUM_ARTIST/ALBUM_ARTIST - ALBUM (YEAR) [FORMAT]/CD N/TRACKNR - ARTIST - TRACKT
 # + -------------------------------------------
 ```
 
-## Resources
+## Ressourcen
 
 - https://musicbrainz.org/ - A community-maintained music metadata database.
 - https://www.discogs.com/ - A database and marketplace for music.
