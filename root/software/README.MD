@@ -1,15 +1,18 @@
-## Content
+## Inhalt
 
-## Sub-Sections
+Alles, was auf den elektronischen Geräten ausgeführt oder installiert werden kann.
+Ausnahme: Für Videospiele ist unter "Spiele" ein Ordner vorgesehen.
 
-## Patterns
+## Abschnitte
 
-## Resources
+Anwendungen
+Betriebssysteme
+Firmware
+Repositorys
+Skripte
 
-## Notes
+## Muster
 
-* Software can be more than just PC (x86/x64)
-* Should also include "retro"-software
-* CAN include games?
-* How to treat open-source software - is that more of a project?
-* Sub-Divide by version? Put all in 1 Folder? Keep Name of original release?
+## Ressourcen
+
+## Hinweise

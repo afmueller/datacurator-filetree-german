@@ -1,4 +1,1 @@
-Copies of Version Controlled Software
-
-- tarball / zipfile / plain copy
-
+Für versionskontrollierte Programme in Entwicklung

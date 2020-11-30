@@ -13,10 +13,10 @@
 
 → Es stehen verschiedene Systeme zur Gruppierung zur Verfügung. Um eines dieser Systeme zu verwenden, muss nur die entsprechende ZIP-Datei im Literaturordner entpackt werden.
 
-* [BISAC](https://bisg.org/page/bisacedition) (thanks to [u/hyperclick76](https://www.reddit.com/user/hyperclick76) !)
-* [UDC](https://en.wikipedia.org/wiki/Universal_Decimal_Classification#Main_tables) (main tables only .. by u/roboyoshi)
-* [LCC](https://en.wikipedia.org/wiki/Library_of_Congress_Classification#Classification) (main sections only .. by u/roboyoshi)
-* [DDC](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification#Classes) (main classes only .. by u/roboyoshi)
+* [BISAC](https://bisg.org/page/bisacedition) (zur Verfügung gestellt von [u/hyperclick76](https://www.reddit.com/user/hyperclick76) !)
+* [UDC](https://en.wikipedia.org/wiki/Universal_Decimal_Classification#Main_tables) (von u/roboyoshi)
+* [LCC](https://en.wikipedia.org/wiki/Library_of_Congress_Classification#Classification) (von u/roboyoshi)
+* [DDC](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification#Classes) (von u/roboyoshi)
 
 ## Muster
 
@@ -39,4 +39,4 @@ Mehr Informationen zu den Ordnungssystemen:
 * [UDC Summary, a nice page to see the structure](http://www.udcsummary.info/php/index.php)
 * [LCC aka Library of Congress Classification](https://en.wikipedia.org/wiki/Library_of_Congress_Classification)
 * https://laureltarulli.wordpress.com/
-* Check https://bookbrainz.org for proper Author/Title Naming
+* Siehe https://bookbrainz.org für Informationen zu Autoren/Titeln

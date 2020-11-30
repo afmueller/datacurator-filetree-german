@@ -1,4 +1,4 @@
 ## Anmerkung
 
-* Games =! Videospiele
-* Hier ist Platz für Brettspiele, Kartenspiele, ...
+* Spiele =! Videospiele
+* Hier ist Platz für Brettspiele, Kartenspiele, Rollenspiel, ...
